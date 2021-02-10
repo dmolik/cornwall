@@ -1,0 +1,12 @@
+syntax = "proto3";
+package dmolik.cornwall.cornwall;
+
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/dmolik/cornwall/x/cornwall/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+    // this line is used by starport scaffolding # genesis/proto/state
+}
+
